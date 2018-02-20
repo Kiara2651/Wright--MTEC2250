@@ -1,0 +1,1 @@
+# My experimental controller is shaped like a rubik's cube. i wanted to make my controller look different from normal. Just like how you would turn a rubik's cube is going to be the same with the controller. The way the controller is going to be set up is like a joystick. youy will have to turn the right side walk forward, trun the left to walk backwards, turn the bottom to jump.
